@@ -1,11 +1,12 @@
 module.exports = {
+  pathPrefix: "/taciossbr.github.io",
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
-    author: `Kyle Mathews`,
+    title: `Tacio S. S.`,
+    author: `taciossbr`,
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://taciossbr.github.io`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `taciossbr`,
     },
   },
   plugins: [
